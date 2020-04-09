@@ -3,3 +3,5 @@ nbproject/
 /build/
 /build_vagrant/
 /.vagrant/
+.idea
+cmake-build*
